@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About
+title: Про Блог
 permalink: /about/
 ---
 
-Hi! My name is Alex. I'm a Senior Software Engineer with more than 10 years of professional experience in software development for commercial projects that include deep work with PDF format, structure, algorithms, batch-processing, multi-tasking and UI/UX. 
+Вітаю всіх, хто добрався до цього місця.
+Мене звати Олександр і я є Senior Software Engineer з більш ніж 10 річним досвідом розробки комерційного програмного забезпечення.
 
-And this is my simple coding blog where I share some stuff that I wrote down for better memorizing.
+В цьому блозі, я буду ділитись різноманітною інформацією, яка буде використовуватись для кращого запам'ятовування в особистих цілях, а також для популяризації контенту українською мовою.
